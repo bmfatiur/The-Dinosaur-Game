@@ -1,0 +1,14 @@
+﻿main.obj : error LNK2019: unresolved external symbol _clearviewport referenced in function "void __cdecl update_graphics(int,int,int,int,int,int,int &)" (?update_graphics@@YAXHHHHHHAAH@Z)
+main.obj : error LNK2019: unresolved external symbol _fillellipse referenced in function "void __cdecl draw_eyes(void)" (?draw_eyes@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _delay referenced in function _WinMain@16
+main.obj : error LNK2019: unresolved external symbol _getmaxx referenced in function "int __cdecl xtranslate(double,double)" (?xtranslate@@YAHNN@Z)
+main.obj : error LNK2019: unresolved external symbol _getmaxy referenced in function "int __cdecl ytranslate(double,double)" (?ytranslate@@YAHNN@Z)
+main.obj : error LNK2019: unresolved external symbol _setcolor referenced in function "void __cdecl draw_eyes(void)" (?draw_eyes@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _setfillstyle referenced in function "void __cdecl update_graphics(int,int,int,int,int,int,int &)" (?update_graphics@@YAXHHHHHHAAH@Z)
+main.obj : error LNK2019: unresolved external symbol _initwindow referenced in function _WinMain@16
+main.obj : error LNK2019: unresolved external symbol _setactivepage referenced in function "void __cdecl update_graphics(int,int,int,int,int,int,int &)" (?update_graphics@@YAXHHHHHHAAH@Z)
+main.obj : error LNK2019: unresolved external symbol _setvisualpage referenced in function "void __cdecl update_graphics(int,int,int,int,int,int,int &)" (?update_graphics@@YAXHHHHHHAAH@Z)
+main.obj : error LNK2019: unresolved external symbol _mousex referenced in function "void __cdecl change_left_color(int,int)" (?change_left_color@@YAXHH@Z)
+main.obj : error LNK2019: unresolved external symbol _mousey referenced in function "void __cdecl change_left_color(int,int)" (?change_left_color@@YAXHH@Z)
+main.obj : error LNK2019: unresolved external symbol _registermousehandler referenced in function _WinMain@16
+C:\Users\Bm-Fatiur-Rahman\Downloads\Compressed\bgi\Debug\bgi.exe : fatal error LNK1120: 13 unresolved externals
